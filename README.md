@@ -6,7 +6,7 @@ After finishing my local Coding Bootcamp down here in Phoenix, AZ, I found mysel
 Here I hope to share a record of maintenance and improvement in my Coding skills, and possibly inspire and help others who share the feeling of being upcreek without a paddle.
 
 ## Resouces
-I will be using Hanker Rank and Code Wars to keep my skills sharp and ready for employment. Why do chhose these two sites? Because they are fun and you get points, badges, and instant gratification!
+I will be using Hanker Rank and Code Wars to keep my skills sharp and ready for employment. Why did I choose these two websites? Because they are fun and you get points, badges, and instant gratification!
 
 Also, they are very well structured and easily avaiable for everyone out there to use.
 
